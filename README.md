@@ -8,9 +8,7 @@ Desde **aplicaciones multiplataforma** hasta **e-commerce** y **plataformas con 
 ## Sobre mí  
 
 - Actualmente desarrollando **AntMaster**, una marca especializada en mirmecología.  
-- Co-fundador de **Asarosa**, consultora de transformación digital y desarrollo web.  
-- Creador de **Rush & Dash**, un videojuego multijugador en Unity (TFG).  
-- Desarrollador de **Py Robo Advisor**, una plataforma de trading automatizado en Python.  
+- Creador de **Rush & Dash**, un videojuego multijugador en Unity (TFG).   
 - En constante aprendizaje en **IA, automatización y modelos SaaS**.  
 
 ---
