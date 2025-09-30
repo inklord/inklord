@@ -49,9 +49,8 @@ Desde **aplicaciones multiplataforma** hasta **e-commerce** y **plataformas con 
 
 ## Conecta conmigo  
 
-- LinkedIn: [linkedin.com/in/mariocascado](https://www.linkedin.com/in/mariocascado/)  
+- LinkedIn: [[linkedin.com/in/mariocascado](https://www.linkedin.com/in/mariocascado/](https://www.linkedin.com/in/mario-cascado-nieto-190a48283/))  
 - AntMaster: [antmastershop.com](https://antmastershop.com)  
-- Asarosa: [asarosa.com](https://asarosa.com)  
 - GitHub: [github.com/inklord](https://github.com/inklord)  
 
 ---
